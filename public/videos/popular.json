@@ -1,0 +1,1571 @@
+{
+	"kind": "youtube#videoListResponse",
+	"etag": "xKwZDNA2L0rch1tEmCo00iCW3pA",
+	"items": [
+		{
+			"kind": "youtube#video",
+			"etag": "OFtKFqfGzmOsO6VIJsieLigN-iE",
+			"id": "d9MyW72ELq0",
+			"snippet": {
+				"publishedAt": "2022-11-02T12:19:35Z",
+				"channelId": "UCgjxQJ6TlKqhHax8742ZMdA",
+				"title": "Avatar: The Way of Water | Official Trailer",
+				"description": "Set more than a decade after the events of the first film, “Avatar: The Way of Water” begins to tell the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.\nDirected by James Cameron and produced by Cameron and Jon Landau, the Lightstorm Entertainment Production stars Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang and Kate Winslet. Screenplay by James Cameron & Rick Jaffa & Amanda Silver. Story by James Cameron & Rick Jaffa & Amanda Silver & Josh Friedman & Shane Salerno. David Valdes and Richard Baneham serve as the film’s executive producers.\n\nTwitter: @OfficialAvatar @20thCentury\nFB/IG: @avatar @20thCenturyStudios",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/d9MyW72ELq0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/d9MyW72ELq0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/d9MyW72ELq0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/d9MyW72ELq0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/d9MyW72ELq0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Avatar",
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Avatar: The Way of Water | Official Trailer",
+					"description": "Set more than a decade after the events of the first film, “Avatar: The Way of Water” begins to tell the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.\nDirected by James Cameron and produced by Cameron and Jon Landau, the Lightstorm Entertainment Production stars Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang and Kate Winslet. Screenplay by James Cameron & Rick Jaffa & Amanda Silver. Story by James Cameron & Rick Jaffa & Amanda Silver & Josh Friedman & Shane Salerno. David Valdes and Richard Baneham serve as the film’s executive producers.\n\nTwitter: @OfficialAvatar @20thCentury\nFB/IG: @avatar @20thCenturyStudios"
+				},
+				"defaultAudioLanguage": "en-US"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "cX9w5knG520_1Tzo5pTICXWPGU4",
+			"id": "5rJyBAkQUTA",
+			"snippet": {
+				"publishedAt": "2022-11-01T21:02:06Z",
+				"channelId": "UCV9_KinVpV-snHe3C3n1hvA",
+				"title": "The Cancelled World Of Jeffree Star and Shane Dawson",
+				"description": "Please SUBSCRIBE and turn on NOTIFICATIONS for the Next Episodes! @shane \n\nThank you to BUFFY for sponsoring this episode!! I appreciate them so much and I truly love their products with all my heart! \nFor 20% off your Buffy order, visit https://buffy.co and enter SHANE at checkout!\n\nNEW MERCH! https://www.shanedawsonmerch.com/\n\nCheck out THE NEW PODCAST! https://www.youtube.com/watch?v=TCatklmGGnk&list=PLUquvWuWlOaO3a04sl86i63y6LQqn1UIx\nShane Dawson Podcast Channel @Shane2 \nPODCAST IG https://www.instagram.com/shanedawsonpodcast/?hl=en \n\nMy SNAPCHAT LOLShaneDawson\nMy TikTok https://www.tiktok.com/@shanedawson\nMy IG https://www.instagram.com/shanedawson/?hl=en\n\nCheck out all of my JEFFREE STAR SERIES here! \nhttps://www.youtube.com/watch?v=JWukx3HGBKI&list=PLDs0tNoNYTz05R0xo7PCVc-RgL2fsJnGg\n\nThe New World of Jeffree Star SPOTIFY PLAYLIST \nI made a Spotify Playlist of all the music featured in this series!\nhttps://open.spotify.com/playlist/2guWmSppQ6wvHrQ1j2ajE7?si=ZT5y1F5ZQSmaKbFo4EEOmQ\n\nJeffree Star @jeffreestar \nhttps://www.instagram.com/jeffreestar/?hl=en\nhttps://www.tiktok.com/@jeffreestar \n\nRyland’s Vlogs @Ryland vlogs \nRyland’s Main Channel @Ryland Adams \nRyland’s Podcast  @The Sip with Ryland Adams and Lizze Gordon \nRyland’s Instagram https://www.instagram.com/rylandadams/?hl=en\nRyland’s Tik Tok https://www.tiktok.com/@rylandadams\n\nChris’s Channel @ChrisBstation \nChris’s Instagram https://www.instagram.com/chrisbstation/?hl=en",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/5rJyBAkQUTA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/5rJyBAkQUTA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/5rJyBAkQUTA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/5rJyBAkQUTA/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/5rJyBAkQUTA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "shane",
+				"tags": [
+					"Shane",
+					"Dawson",
+					"conspiracy",
+					"theories",
+					"journalism",
+					"investigative journalism",
+					"docuseries",
+					"documentary"
+				],
+				"categoryId": "23",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "The Cancelled World Of Jeffree Star and Shane Dawson",
+					"description": "Please SUBSCRIBE and turn on NOTIFICATIONS for the Next Episodes! @shane \n\nThank you to BUFFY for sponsoring this episode!! I appreciate them so much and I truly love their products with all my heart! \nFor 20% off your Buffy order, visit https://buffy.co and enter SHANE at checkout!\n\nNEW MERCH! https://www.shanedawsonmerch.com/\n\nCheck out THE NEW PODCAST! https://www.youtube.com/watch?v=TCatklmGGnk&list=PLUquvWuWlOaO3a04sl86i63y6LQqn1UIx\nShane Dawson Podcast Channel @Shane2 \nPODCAST IG https://www.instagram.com/shanedawsonpodcast/?hl=en \n\nMy SNAPCHAT LOLShaneDawson\nMy TikTok https://www.tiktok.com/@shanedawson\nMy IG https://www.instagram.com/shanedawson/?hl=en\n\nCheck out all of my JEFFREE STAR SERIES here! \nhttps://www.youtube.com/watch?v=JWukx3HGBKI&list=PLDs0tNoNYTz05R0xo7PCVc-RgL2fsJnGg\n\nThe New World of Jeffree Star SPOTIFY PLAYLIST \nI made a Spotify Playlist of all the music featured in this series!\nhttps://open.spotify.com/playlist/2guWmSppQ6wvHrQ1j2ajE7?si=ZT5y1F5ZQSmaKbFo4EEOmQ\n\nJeffree Star @jeffreestar \nhttps://www.instagram.com/jeffreestar/?hl=en\nhttps://www.tiktok.com/@jeffreestar \n\nRyland’s Vlogs @Ryland vlogs \nRyland’s Main Channel @Ryland Adams \nRyland’s Podcast  @The Sip with Ryland Adams and Lizze Gordon \nRyland’s Instagram https://www.instagram.com/rylandadams/?hl=en\nRyland’s Tik Tok https://www.tiktok.com/@rylandadams\n\nChris’s Channel @ChrisBstation \nChris’s Instagram https://www.instagram.com/chrisbstation/?hl=en"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "OAIFt39u4u-SzkqBQ74sjij5GAk",
+			"id": "FwPt-ti1oF8",
+			"snippet": {
+				"publishedAt": "2022-11-01T22:27:23Z",
+				"channelId": "UCGeBogGDZ9W3dsGx-mWQGJA",
+				"title": "Jake Paul Beats Silva, Hates Logan & KSI’s Friendship, Reveals Next Opponent - IMPAULSIVE EP. 350",
+				"description": "Undefeated (6-0) professional boxer, Jake Paul, AND UFC Bantamweight phenom, Sean O’Malley, join the boys to discuss Jake Paul’s dominating win VS. Anderson Silva, if his fight was rigged, next opponent (KSI or Nate Diaz?), Sean O’Malley Vs Petr Yan, knocking out Ryan Garcia, Logan has another colorblind moment & more…\n\nWear Maverick Clothing ► https://maverickclothing.com\nSUBSCRIBE TO THE PODCAST ► https://www.youtube.com/impaulsive\n\nLISTEN ON:\nITUNES: https://itunes.apple.com/us/podcast/impaulsive-with-logan-paul/id1442164847?mt=2\nSPOTIFY: https://open.spotify.com/show/36PzTdM4rvRPaJYdBW1ZNa?si=NIdEVBarRWuw17x3ubWZCw\nCASTBOX: https://castbox.fm/vc/1486024\nPODCAST ADDICT: https://podcastaddict.com/podcast/3224924\n\nThe NASCAR Playoffs are happening now! Tune in to NBC on Sunday, October 30th at 2:00 PM ET to witness all the action. https://www.nascar.com/nascar-cup-series/2022/schedule/?cid=NAS_WB_NA_WL_ImpaulsiveNASCARPlay_220921\n\nWatch Previous (Shawn Michaels On Logan Paul VS Roman Reigns, Triple H Saving His Life, WWE Future) ► https://www.youtube.com/watch?v=FEsiGdXTigg\n\nADD US ON:\nINSTAGRAM: https://www.instagram.com/impaulsiveshow/\n\nTimestamps:\n0:00 Intro/Welcome Jake Paul!\n1:38 KSI Friendship (Jake Confronts Logan!)\n4:25 Anderson Silva VS Jake Paul \n7:23 Pre-Fight Ritual\n10:58 Anderson Silva VS Jake Paul Pt. 2\n18:04 Boxing Saved Jake Paul’s Life\n20:44 Welcome Radio Rahim!\n23:50 Was Jake’s Fight Rigged?\n34:06 Next Opponent (Nate Diaz Altercation)\n40:19 Unofficial PPV Numbers\n46:56 Mental Health For Fighters (Ryan Garcia)\n50:45 “TO THIS DAY” Viral Moment\n58:50 Welcome Sean O’Malley!\n1:00:30 Sean O’Malley Vs Petr Yan Breakdown\n1:09:47 Picking Up Chicks & UFC Composure\n1:16:28 Pam On Jake & Logan Fighting\n1:20:27 Sean O’Malley VS Ryan Garcia!?\n1:24:30 Logan Paul Colorblind Glasses (Again)\n1:27:08 Mike Is A Pirate & Moon Landing Was Real\n\n***PLEASE NOTE***\nImpaulsive is a significant break from the typical content viewers have come to expect from the vlog channel & we could not be more proud and excited to watch this unfold and grow. Please be advised that we will be exploring a wide variety of topics (some adult-themed) and our younger viewers (and their parents) should be advised that some topics will be for mature audiences only.\n\n#JakePaul #AndersonSilva #KSI",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/FwPt-ti1oF8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/FwPt-ti1oF8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/FwPt-ti1oF8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/FwPt-ti1oF8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/FwPt-ti1oF8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "IMPAULSIVE",
+				"tags": [
+					"podcast guest",
+					"Jake Paul brother",
+					"impaulsive",
+					"impaulsive podcast",
+					"logan paul podcast",
+					"logan paul",
+					"jake paul",
+					"ksi",
+					"jake paul vs anderson silva",
+					"jake paul reaction",
+					"jake paul ko",
+					"jake paul knock down",
+					"ufc",
+					"mma",
+					"boxing",
+					"paul vs silva",
+					"nate diaz jake paul",
+					"ksi vs jake paul",
+					"sean o'malley",
+					"petr yan",
+					"yan vs o'malley",
+					"bantamweight",
+					"ryan garcia",
+					"showtime ppv",
+					"logan paul colorblind",
+					"jake paul rigged",
+					"mental health",
+					"rahim and deontay wilder",
+					"to this day",
+					"greg paul",
+					"logan paul parents"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "Jake Paul Beats Silva, Hates Logan & KSI’s Friendship, Reveals Next Opponent - IMPAULSIVE EP. 350",
+					"description": "Undefeated (6-0) professional boxer, Jake Paul, AND UFC Bantamweight phenom, Sean O’Malley, join the boys to discuss Jake Paul’s dominating win VS. Anderson Silva, if his fight was rigged, next opponent (KSI or Nate Diaz?), Sean O’Malley Vs Petr Yan, knocking out Ryan Garcia, Logan has another colorblind moment & more…\n\nWear Maverick Clothing ► https://maverickclothing.com\nSUBSCRIBE TO THE PODCAST ► https://www.youtube.com/impaulsive\n\nLISTEN ON:\nITUNES: https://itunes.apple.com/us/podcast/impaulsive-with-logan-paul/id1442164847?mt=2\nSPOTIFY: https://open.spotify.com/show/36PzTdM4rvRPaJYdBW1ZNa?si=NIdEVBarRWuw17x3ubWZCw\nCASTBOX: https://castbox.fm/vc/1486024\nPODCAST ADDICT: https://podcastaddict.com/podcast/3224924\n\nThe NASCAR Playoffs are happening now! Tune in to NBC on Sunday, October 30th at 2:00 PM ET to witness all the action. https://www.nascar.com/nascar-cup-series/2022/schedule/?cid=NAS_WB_NA_WL_ImpaulsiveNASCARPlay_220921\n\nWatch Previous (Shawn Michaels On Logan Paul VS Roman Reigns, Triple H Saving His Life, WWE Future) ► https://www.youtube.com/watch?v=FEsiGdXTigg\n\nADD US ON:\nINSTAGRAM: https://www.instagram.com/impaulsiveshow/\n\nTimestamps:\n0:00 Intro/Welcome Jake Paul!\n1:38 KSI Friendship (Jake Confronts Logan!)\n4:25 Anderson Silva VS Jake Paul \n7:23 Pre-Fight Ritual\n10:58 Anderson Silva VS Jake Paul Pt. 2\n18:04 Boxing Saved Jake Paul’s Life\n20:44 Welcome Radio Rahim!\n23:50 Was Jake’s Fight Rigged?\n34:06 Next Opponent (Nate Diaz Altercation)\n40:19 Unofficial PPV Numbers\n46:56 Mental Health For Fighters (Ryan Garcia)\n50:45 “TO THIS DAY” Viral Moment\n58:50 Welcome Sean O’Malley!\n1:00:30 Sean O’Malley Vs Petr Yan Breakdown\n1:09:47 Picking Up Chicks & UFC Composure\n1:16:28 Pam On Jake & Logan Fighting\n1:20:27 Sean O’Malley VS Ryan Garcia!?\n1:24:30 Logan Paul Colorblind Glasses (Again)\n1:27:08 Mike Is A Pirate & Moon Landing Was Real\n\n***PLEASE NOTE***\nImpaulsive is a significant break from the typical content viewers have come to expect from the vlog channel & we could not be more proud and excited to watch this unfold and grow. Please be advised that we will be exploring a wide variety of topics (some adult-themed) and our younger viewers (and their parents) should be advised that some topics will be for mature audiences only.\n\n#JakePaul #AndersonSilva #KSI"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "gJ4a_JNDMebAZyfeWqQME_o9Fwg",
+			"id": "TUbmIriJlp4",
+			"snippet": {
+				"publishedAt": "2022-10-31T19:00:17Z",
+				"channelId": "UCU_xT0uVi5cku7cg9hDgkMA",
+				"title": "Quavo & Takeoff -\"Messy\" (Official Video)",
+				"description": "#NowPlaying Quavo & Takeoff \"Messy\" Official Music Video.\n\nStream & Download \"Messy\" Here: http://www.QualityControl.lnk.to/InfinityLinks\n\nFollow Quavo!\nhttps://www.instagram.com/quavohuncho \nhttps://twitter.com/QuavoStuntin\nhttps://www.tiktok.com/@quavohuncho\nhttps://www.facebook.com/THEMigosAtl\n \nFollow Takeoff: \nhttps://www.instagram.com/yrntakeoff/\nhttps://twitter.com/1YoungTakeoff\nhttps://www.tiktok.com/@yrntakeoff\n\nLyrics:\nTakeoff\nYeahhh\nQuavo\nDJ Durel\nTakeoff\nThey Thought we forget We ain’t forget\nDon’t let that broke bitch in cause she too messy (Bitch)\nWho the fuck them broke boys with? Get out my section (Get out my section) Just pulled a muscle god damn too much flexing (Damn)\nCaught’em in traffic on the acid then we pressing (Gottem)\nSmoking zaza every second I be stressing (Cough Cough)\nIf you ain’t trying to beat’em fuck it won’t you stretch’em (Do that)\nThey wipe their nose for that tissue god blessem (Wipe it)\nI dropped a 4 of purp I call that shit Chris Webber (Drank, Takeoff)\nTakeoff\nI know you niggas wanna be me but its levels (Bitch)\nI got the gang tatted on me thats forever (Gang)\nWanna know my moves and all my spots but I move clever (Move) Wanna know my stash how much I got but I ain’t gonna tell’em (Uh huh) Push it push it run it through it get that bag cmon (Go)\nTitanic yatch big enough for all my niggas to jump on (Cmon)\nI know she came with you but she looking for me to go home (Me)\nRollie discounted like the drink I used to sip on (Sip on)\nAnd thats Act nigga, not wock, not quagen, not red\nTakeoff\nDon’t let that broke bitch in cause she too messy (Bitch)\nWho the fuck them broke boys with? Get out my section (Get out my section) Just pulled a muscle god damn too much flexing (Damn)\nCaught’em in traffic on the acid then we pressing (Gottem)\nSmoking zaza every second I be stressing (Cough Cough)\nIf you ain’t trying to beat’em fuck it won’t you stretch’em (Do that)\nThey wipe their nose for that tissue god blessem (Wipe it)\nI dropped a 4 of purp I call that shit Chris Webber (Drank, Huncho)\nQuavo\nI’m the Huncho bitch I’m bout my cheddar (Quavo)\nLil hoe be going out sad lil bitch do better (Bitch)\nShe want me to hit it put my blicky on the dresser (Glocky)\nFeeling brilliant just like Elon popped a Tesla (Pop it go)\nIf you ain’t got no motion you can’t stand up in my session (Get out) I said caresha please cause she too messy (Please)\r\n Bitch fucked my dawg behind my back but I ain’t stressing (Not at all)\nYou wanted the gang you should’ve just said it we would’ve blessed you (should’ve just said it) Now shit got messy\nSmoking exotic shit with an exotic bitch (Exotics)\nGeeking I’m bringing all kind of narcotics with me (Narcan)\nGot guns on the table I’m like who fire this is (Who)\nThis bitch got passed security I’m like who let her in (Damn)\nTakeoff\nDon’t let that broke bitch in cause she too messy (Bitch)\nWho the fuck them broke boys with? Get out my section (Get out my section) Just pulled a muscle god damn too much flexing (Damn)\nCaught’em in traffic on the acid then we pressing (Gottem)\nSmoking zaza every second I be stressing (Cough Cough)\nIf you ain’t trying to beat’em fuck it won’t you stretch’em (Do that)\nThey wipe their nose for that tissue god blessem (Wipe it)\nI dropped a 4 of purp I call that shit Chris Webber (Drank)\n\n#Quavo #Takeoff #Messy #OnlyBuiltForInfinityLinks",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/TUbmIriJlp4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/TUbmIriJlp4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/TUbmIriJlp4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/TUbmIriJlp4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/TUbmIriJlp4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Quavo Huncho",
+				"tags": [
+					"quavo",
+					"Takeoff",
+					"Messy",
+					"Infinity Link",
+					"Only Built For Infinity Links",
+					"Beast Mode Hip Hop",
+					"Hotel lobby",
+					"messy quavo",
+					"To the bone",
+					"I said Caresha please cause she too messy",
+					"to the bone",
+					"Sweete",
+					"sweetie",
+					"migos",
+					"offset",
+					"nothing changed"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Quavo & Takeoff -\"Messy\" (Official Video)",
+					"description": "#NowPlaying Quavo & Takeoff \"Messy\" Official Music Video.\n\nStream & Download \"Messy\" Here: http://www.QualityControl.lnk.to/InfinityLinks\n\nFollow Quavo!\nhttps://www.instagram.com/quavohuncho \nhttps://twitter.com/QuavoStuntin\nhttps://www.tiktok.com/@quavohuncho\nhttps://www.facebook.com/THEMigosAtl\n \nFollow Takeoff: \nhttps://www.instagram.com/yrntakeoff/\nhttps://twitter.com/1YoungTakeoff\nhttps://www.tiktok.com/@yrntakeoff\n\nLyrics:\nTakeoff\nYeahhh\nQuavo\nDJ Durel\nTakeoff\nThey Thought we forget We ain’t forget\nDon’t let that broke bitch in cause she too messy (Bitch)\nWho the fuck them broke boys with? Get out my section (Get out my section) Just pulled a muscle god damn too much flexing (Damn)\nCaught’em in traffic on the acid then we pressing (Gottem)\nSmoking zaza every second I be stressing (Cough Cough)\nIf you ain’t trying to beat’em fuck it won’t you stretch’em (Do that)\nThey wipe their nose for that tissue god blessem (Wipe it)\nI dropped a 4 of purp I call that shit Chris Webber (Drank, Takeoff)\nTakeoff\nI know you niggas wanna be me but its levels (Bitch)\nI got the gang tatted on me thats forever (Gang)\nWanna know my moves and all my spots but I move clever (Move) Wanna know my stash how much I got but I ain’t gonna tell’em (Uh huh) Push it push it run it through it get that bag cmon (Go)\nTitanic yatch big enough for all my niggas to jump on (Cmon)\nI know she came with you but she looking for me to go home (Me)\nRollie discounted like the drink I used to sip on (Sip on)\nAnd thats Act nigga, not wock, not quagen, not red\nTakeoff\nDon’t let that broke bitch in cause she too messy (Bitch)\nWho the fuck them broke boys with? Get out my section (Get out my section) Just pulled a muscle god damn too much flexing (Damn)\nCaught’em in traffic on the acid then we pressing (Gottem)\nSmoking zaza every second I be stressing (Cough Cough)\nIf you ain’t trying to beat’em fuck it won’t you stretch’em (Do that)\nThey wipe their nose for that tissue god blessem (Wipe it)\nI dropped a 4 of purp I call that shit Chris Webber (Drank, Huncho)\nQuavo\nI’m the Huncho bitch I’m bout my cheddar (Quavo)\nLil hoe be going out sad lil bitch do better (Bitch)\nShe want me to hit it put my blicky on the dresser (Glocky)\nFeeling brilliant just like Elon popped a Tesla (Pop it go)\nIf you ain’t got no motion you can’t stand up in my session (Get out) I said caresha please cause she too messy (Please)\r\n Bitch fucked my dawg behind my back but I ain’t stressing (Not at all)\nYou wanted the gang you should’ve just said it we would’ve blessed you (should’ve just said it) Now shit got messy\nSmoking exotic shit with an exotic bitch (Exotics)\nGeeking I’m bringing all kind of narcotics with me (Narcan)\nGot guns on the table I’m like who fire this is (Who)\nThis bitch got passed security I’m like who let her in (Damn)\nTakeoff\nDon’t let that broke bitch in cause she too messy (Bitch)\nWho the fuck them broke boys with? Get out my section (Get out my section) Just pulled a muscle god damn too much flexing (Damn)\nCaught’em in traffic on the acid then we pressing (Gottem)\nSmoking zaza every second I be stressing (Cough Cough)\nIf you ain’t trying to beat’em fuck it won’t you stretch’em (Do that)\nThey wipe their nose for that tissue god blessem (Wipe it)\nI dropped a 4 of purp I call that shit Chris Webber (Drank)\n\n#Quavo #Takeoff #Messy #OnlyBuiltForInfinityLinks"
+				},
+				"defaultAudioLanguage": "en-US"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "kkdvuT80iloofgt2MMVOpOZYVck",
+			"id": "kUAu8PWjFPA",
+			"snippet": {
+				"publishedAt": "2022-11-01T23:00:37Z",
+				"channelId": "UCRI7hheejBbWS6etTNwMT0g",
+				"title": "Anuel AA , Yovng Chimi- Diamantes En Mis Dientes (Video Oficial)",
+				"description": "Anuel AA , Yovng Chimi- Diamantes En Mis Dientes (Video Oficial)\n\n#AnuelAA  #YovngChimi #Diamantesenmisdientes\n\nSuscríbete a mi canal ➡️   https://radi.al/AnuelAA \n\n🎵 Stream/Download: \nhttps://orcd.co/diamantesenmisdientes\n\n\nRedes Sociales\nhttps://www.facebook.com/Anuel2bleAofficial/\nhttps://twitter.com/_anuel_aa\nhttps://www.instagram.com/anuel/\n\nhttps://www.anuelaa.com",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/kUAu8PWjFPA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/kUAu8PWjFPA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/kUAu8PWjFPA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/kUAu8PWjFPA/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/kUAu8PWjFPA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Anuel AA",
+				"tags": [
+					"Anuel AA",
+					"anuel",
+					"Real hasta la muerte",
+					"New Music",
+					"Reggaeton",
+					"Latin Trap",
+					"anuel aa",
+					"yovngchimi",
+					"anuel aa yovngchimi – diamantes en mis dientes",
+					"Yovng Chimi- Diamantes En Mis Dientes (Video Oficial)",
+					"nuevo video anuel",
+					"anuel aa na nuevo",
+					"anuel aa 2022",
+					"anuelaa",
+					"las leyendas nunca mueren anuel",
+					"anuel nuevo video",
+					"llnm anuel aa",
+					"nuevo album de anuel aa",
+					"anuel video oficial",
+					"anuel aa brother",
+					"diamantes en mis dientes anuel",
+					"diamantes en mis dientes",
+					"anuel diamantes en mis dientes"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "es",
+				"localized": {
+					"title": "Anuel AA , Yovng Chimi- Diamantes En Mis Dientes (Video Oficial)",
+					"description": "Anuel AA , Yovng Chimi- Diamantes En Mis Dientes (Video Oficial)\n\n#AnuelAA  #YovngChimi #Diamantesenmisdientes\n\nSuscríbete a mi canal ➡️   https://radi.al/AnuelAA \n\n🎵 Stream/Download: \nhttps://orcd.co/diamantesenmisdientes\n\n\nRedes Sociales\nhttps://www.facebook.com/Anuel2bleAofficial/\nhttps://twitter.com/_anuel_aa\nhttps://www.instagram.com/anuel/\n\nhttps://www.anuelaa.com"
+				},
+				"defaultAudioLanguage": "es"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "_qD-SR2MewBdTEgjJnUYzIljQMM",
+			"id": "B5IbSOo4o5o",
+			"snippet": {
+				"publishedAt": "2022-11-02T16:00:12Z",
+				"channelId": "UCBa659QWEk1AI4Tg--mrJ2A",
+				"title": "I can't do this forever.",
+				"description": "💡 VIDEO SUGGESTIONS: https://tomscott.com/help/\n❓ LATERAL the podcast: https://lateralcast.com or highlights at https://youtube.com/lateralcast\n💥 THE TECHNICAL DIFFICULTIES: https://youtube.com/techdif\n📰 NEWSLETTER: https://tomscott.com/newsletter/\n➕ TOM SCOTT PLUS the second channel: https://youtube.com/tomscottplus",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/B5IbSOo4o5o/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/B5IbSOo4o5o/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/B5IbSOo4o5o/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/B5IbSOo4o5o/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/B5IbSOo4o5o/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Tom Scott",
+				"tags": ["tom scott", "tomscott"],
+				"categoryId": "27",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "I can't do this forever.",
+					"description": "💡 VIDEO SUGGESTIONS: https://tomscott.com/help/\n❓ LATERAL the podcast: https://lateralcast.com or highlights at https://youtube.com/lateralcast\n💥 THE TECHNICAL DIFFICULTIES: https://youtube.com/techdif\n📰 NEWSLETTER: https://tomscott.com/newsletter/\n➕ TOM SCOTT PLUS the second channel: https://youtube.com/tomscottplus"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "TYIf5X8JRstA063ORGuxNILbxNM",
+			"id": "7NH48v2aHKo",
+			"snippet": {
+				"publishedAt": "2022-11-01T22:00:08Z",
+				"channelId": "UCEJeShf-3BGLDla7_RADj3A",
+				"title": "DD Osama - Letter 2 Notti (Official Video)",
+				"description": "Letter 2 Notti Out Now: https://ddosama.lnk.to/l2n\n\nhttps://www.instagram.com/ddosama/\n\n#E4N #DDOsama #Letter2Notti",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/7NH48v2aHKo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/7NH48v2aHKo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/7NH48v2aHKo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/7NH48v2aHKo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/7NH48v2aHKo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "DD Osama",
+				"tags": [
+					"dd osama",
+					"ddosama",
+					"dee dee osama",
+					"letter 2 notti",
+					"everything 4 notti",
+					"notti",
+					"dd"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "DD Osama - Letter 2 Notti (Official Video)",
+					"description": "Letter 2 Notti Out Now: https://ddosama.lnk.to/l2n\n\nhttps://www.instagram.com/ddosama/\n\n#E4N #DDOsama #Letter2Notti"
+				},
+				"defaultAudioLanguage": "en-US"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "UgSFlXnhCLP1ONq47xEMvUc8zsU",
+			"id": "GorZOdylYbw",
+			"snippet": {
+				"publishedAt": "2022-11-02T02:00:03Z",
+				"channelId": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+				"title": "Putin's War at Home (full documentary) | FRONTLINE",
+				"description": "Meet some of the defiant Russians pushing back against President Vladimir Putin’s crackdown on critics of the war in Ukraine. \n\nThis journalism is made possible by viewers like you. Support your local PBS station here: http://www.pbs.org/donate. \n\nFRONTLINE tells the inside stories of activists and journalists risking arrest and imprisonment to protest and speak out about the Kremlin’s war effort — from a young woman whose TikToks have gone viral internationally, to an artist facing up to 10 years imprisonment after posting anti-war stickers in a grocery store, to a university professor whose parents live in Ukraine, to independent reporters seeking the truth about the war — including its death toll among the country’s soldiers, information that Russia has deemed a state secret.\n\nAs Russia’s war on Ukraine approaches its ninth month and evidence of potential war crimes continues to mount, “Putin's War at Home” is a powerful look at the Russian leader’s efforts to stifle domestic criticism — and some of the people in his country who are speaking out anyway.\n \n“Putin’s Russia is based on fear,” one journalist says in the documentary, adding that, “we decided to continue without censorship, whatever the cost.”\n\n#Documentary #InsideRussia #UkraineWar\n\nFind FRONTLINE on the PBS Video App, where more than 300 of our documentaries are available to watch any time: https://to.pbs.org/FLVideoApp \nSubscribe on YouTube: http://bit.ly/1BycsJW \nInstagram: https://www.instagram.com/frontlinepbs \nTwitter: https://twitter.com/frontlinepbs \nFacebook: https://www.facebook.com/frontline \n\n“Putin’s War at Home” is a Hardcash production for GBH/FRONTLINE in association with ITV. The producer and director is Gesbeen Mohammad. The producer is Vasiliy Kolotilov. The senior producer is Eamonn Matthews. The executive producer for Hardcash Productions is Esella Hawkey. The editor-in-chief and executive producer for FRONTLINE is Raney Aronson-Rath.\n\nFRONTLINE is produced at GBH in Boston and is broadcast nationwide on PBS. Funding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Additional support for FRONTLINE is provided by the Abrams Foundation, the John D. and Catherine T. MacArthur Foundation, Park Foundation, the Heising-Simons Foundation, and the FRONTLINE Journalism Fund, with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation, and additional support from Koo and Patricia Yuen.\n\nCHAPTERS:\n\n‘I Wanted to Give a Voice to People Who are Opposing the War That Russia Started’ – 00:00\nA Protest of Russia’s War on Ukraine Through Grocery Store Stickers - 4:20 \nRussian Journalists Defy Crackdown on Independent War Reporting - 8:11 \nYoung Woman Uses TikTok to Share What’s Happening in Russia - 13:35 \nProfessor in Russia Worries About His Parents in Ukraine - 18:38 \nJournalists Investigate a Russian State Secret: Soldier Deaths in Ukraine - 22:04 \nInside a Bail Hearing for a Russian Anti-War Protester - 25:34 \nPersonal Impact of Russia’s War in Ukraine - 30:43 \nA War That Has ‘Entered the Homes of Every Russian’ - 35:46 \nA Russia Where Dissent is Not Tolerated - 42:40 \nRussia Announces Partial Mobilization for Ukraine War - 45:26 \nCredits - 51:57",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/GorZOdylYbw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/GorZOdylYbw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/GorZOdylYbw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/GorZOdylYbw/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/GorZOdylYbw/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "FRONTLINE PBS | Official",
+				"categoryId": "25",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en-US",
+				"localized": {
+					"title": "Putin's War at Home (full documentary) | FRONTLINE",
+					"description": "Meet some of the defiant Russians pushing back against President Vladimir Putin’s crackdown on critics of the war in Ukraine. \n\nThis journalism is made possible by viewers like you. Support your local PBS station here: http://www.pbs.org/donate. \n\nFRONTLINE tells the inside stories of activists and journalists risking arrest and imprisonment to protest and speak out about the Kremlin’s war effort — from a young woman whose TikToks have gone viral internationally, to an artist facing up to 10 years imprisonment after posting anti-war stickers in a grocery store, to a university professor whose parents live in Ukraine, to independent reporters seeking the truth about the war — including its death toll among the country’s soldiers, information that Russia has deemed a state secret.\n\nAs Russia’s war on Ukraine approaches its ninth month and evidence of potential war crimes continues to mount, “Putin's War at Home” is a powerful look at the Russian leader’s efforts to stifle domestic criticism — and some of the people in his country who are speaking out anyway.\n \n“Putin’s Russia is based on fear,” one journalist says in the documentary, adding that, “we decided to continue without censorship, whatever the cost.”\n\n#Documentary #InsideRussia #UkraineWar\n\nFind FRONTLINE on the PBS Video App, where more than 300 of our documentaries are available to watch any time: https://to.pbs.org/FLVideoApp \nSubscribe on YouTube: http://bit.ly/1BycsJW \nInstagram: https://www.instagram.com/frontlinepbs \nTwitter: https://twitter.com/frontlinepbs \nFacebook: https://www.facebook.com/frontline \n\n“Putin’s War at Home” is a Hardcash production for GBH/FRONTLINE in association with ITV. The producer and director is Gesbeen Mohammad. The producer is Vasiliy Kolotilov. The senior producer is Eamonn Matthews. The executive producer for Hardcash Productions is Esella Hawkey. The editor-in-chief and executive producer for FRONTLINE is Raney Aronson-Rath.\n\nFRONTLINE is produced at GBH in Boston and is broadcast nationwide on PBS. Funding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Additional support for FRONTLINE is provided by the Abrams Foundation, the John D. and Catherine T. MacArthur Foundation, Park Foundation, the Heising-Simons Foundation, and the FRONTLINE Journalism Fund, with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation, and additional support from Koo and Patricia Yuen.\n\nCHAPTERS:\n\n‘I Wanted to Give a Voice to People Who are Opposing the War That Russia Started’ – 00:00\nA Protest of Russia’s War on Ukraine Through Grocery Store Stickers - 4:20 \nRussian Journalists Defy Crackdown on Independent War Reporting - 8:11 \nYoung Woman Uses TikTok to Share What’s Happening in Russia - 13:35 \nProfessor in Russia Worries About His Parents in Ukraine - 18:38 \nJournalists Investigate a Russian State Secret: Soldier Deaths in Ukraine - 22:04 \nInside a Bail Hearing for a Russian Anti-War Protester - 25:34 \nPersonal Impact of Russia’s War in Ukraine - 30:43 \nA War That Has ‘Entered the Homes of Every Russian’ - 35:46 \nA Russia Where Dissent is Not Tolerated - 42:40 \nRussia Announces Partial Mobilization for Ukraine War - 45:26 \nCredits - 51:57"
+				},
+				"defaultAudioLanguage": "en-US"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "vxWWesrCpWE4Cgo75-QA2J8YXo8",
+			"id": "4Puvinqzwic",
+			"snippet": {
+				"publishedAt": "2022-11-02T00:12:50Z",
+				"channelId": "UCU7iRrk3xfpUk0R6VdyC1Ow",
+				"title": "\"Steve Nash Is A Scapegoat\" | Inside the NBA Crew Discuss the Brooklyn Nets | NBA on TNT",
+				"description": "\"This is all on Kevin Durant and Kyrie Irving and Ben Simmons. Steve Nash is a scapegoat.\"\n\nThe Inside the NBA crew react to the drama around the Brooklyn Nets\n\nWatch highlights from Inside the NBA with Shaq, Charles Barkley, Kenny Smith and Ernie Johnson and more! Subscribe now to be updated on the latest videos: https://www.youtube.com/nbaontnt?sub_confirmation=1\r\n\r\nConnect with NBA on TNT:\r\nFollow NBA on TNT on Twitter: https://twitter.com/NBAonTNT\r\nLike NBA on TNT on Facebook: https://www.facebook.com/NBAONTNT/\r\nFollow NBA on TNT on Instagram: https://www.instagram.com/nbaontnt/?hl=en",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/4Puvinqzwic/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/4Puvinqzwic/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/4Puvinqzwic/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/4Puvinqzwic/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/4Puvinqzwic/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "NBA on TNT",
+				"tags": [
+					"NBA on TNT",
+					"NBA",
+					"Inside the NBA",
+					"Charles Barkley",
+					"Shaq",
+					"Kenny Smith",
+					"Ernie Johnson",
+					"Brooklyn Nets",
+					"Kyrie Irving",
+					"Kevin Durant",
+					"KD",
+					"Kyrie",
+					"Ben Simmons",
+					"Steve Nash",
+					"firing"
+				],
+				"categoryId": "17",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "\"Steve Nash Is A Scapegoat\" | Inside the NBA Crew Discuss the Brooklyn Nets | NBA on TNT",
+					"description": "\"This is all on Kevin Durant and Kyrie Irving and Ben Simmons. Steve Nash is a scapegoat.\"\n\nThe Inside the NBA crew react to the drama around the Brooklyn Nets\n\nWatch highlights from Inside the NBA with Shaq, Charles Barkley, Kenny Smith and Ernie Johnson and more! Subscribe now to be updated on the latest videos: https://www.youtube.com/nbaontnt?sub_confirmation=1\r\n\r\nConnect with NBA on TNT:\r\nFollow NBA on TNT on Twitter: https://twitter.com/NBAonTNT\r\nLike NBA on TNT on Facebook: https://www.facebook.com/NBAONTNT/\r\nFollow NBA on TNT on Instagram: https://www.instagram.com/nbaontnt/?hl=en"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "ofvTfzFGyDjncup8gZ79RFqNWqk",
+			"id": "jMkRQFqahkQ",
+			"snippet": {
+				"publishedAt": "2022-11-01T21:12:33Z",
+				"channelId": "UCjHWv2DU5-HLpogAAr386DQ",
+				"title": "Police give update on Migos rapper Takeoff's death at Houston bowling alley",
+				"description": "Houston Mayor Sylvester Turner, Houston Police Chief Troy Finner and investigator Sgt. Michael Arrington give an update in the shooting death of Rapper Takeoff, a member of the popular Georgia group Migos, at a Houston bowling alley hosting a private party on Halloween night.\n\nSubscribe to FOX 5 Atlanta!: https://bit.ly/3vpFpcm\n\nWatch FOX 5 Atlanta Live: https://www.fox5atlanta.com/live\n\nFOX 5 Atlanta delivers breaking news, live events, investigations, politics, entertainment, business news and local stories from metro Atlanta, north Georgia and across the nation.\n\nWatch more from FOX 5 Atlanta on YouTube:\nFOX 5 News: https://www.youtube.com/playlist?list=PLUgtVJuOxfqkmrF1fONNmi8nKI0Z-FPE-\nFOX 5 Atlanta I-Team: https://www.youtube.com/playlist?list=PLUgtVJuOxfqlb_I16wBwizoAoUsfKEeWB\nGood Day Atlanta: https://www.youtube.com/playlist?list=PLUgtVJuOxfqlKT5xsbsPFgr5EBzdsWTvG\nFOX 5 Extras: https://www.youtube.com/playlist?list=PLUgtVJuOxfqli-5MS_2X-i6bNGWvV0RYP\nYou Decide: https://www.youtube.com/playlist?list=PLUgtVJuOxfqnCKb7UkRde2NXuaoPEAXut\n\nDownload the FOX 5 Atlanta app: https://www.fox5atlanta.com/app\n\nDownload the FOX 5 Storm Team app: https://www.fox5atlanta.com/storm\n\nFollow FOX 5 Atlanta on Facebook: https://facebook.com/fox5atlanta\n\nFollow FOX 5 Atlanta on Twitter: https://twitter.com/FOX5Atlanta\n\nFollow FOX 5 Atlanta on Instagram: https://www.instagram.com/fox5atlanta/\n\nSubscribe to the Morning Brief and other newsletters from FOX 5 Atlanta: https://www.fox5atlanta.com/email",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/jMkRQFqahkQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/jMkRQFqahkQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/jMkRQFqahkQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/jMkRQFqahkQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/jMkRQFqahkQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "FOX 5 Atlanta",
+				"tags": [
+					"Kirshnik Khari Ball",
+					"migos",
+					"takeoff",
+					"Quavo",
+					"Offset",
+					"houston shooting",
+					"atlanta rapper",
+					"georgia",
+					"entertainment",
+					"deadly shooting",
+					"bowling alley",
+					"private event",
+					"houston mayor sylvester turner",
+					"houston police chief troy finner",
+					"halloween party"
+				],
+				"categoryId": "25",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "Police give update on Migos rapper Takeoff's death at Houston bowling alley",
+					"description": "Houston Mayor Sylvester Turner, Houston Police Chief Troy Finner and investigator Sgt. Michael Arrington give an update in the shooting death of Rapper Takeoff, a member of the popular Georgia group Migos, at a Houston bowling alley hosting a private party on Halloween night.\n\nSubscribe to FOX 5 Atlanta!: https://bit.ly/3vpFpcm\n\nWatch FOX 5 Atlanta Live: https://www.fox5atlanta.com/live\n\nFOX 5 Atlanta delivers breaking news, live events, investigations, politics, entertainment, business news and local stories from metro Atlanta, north Georgia and across the nation.\n\nWatch more from FOX 5 Atlanta on YouTube:\nFOX 5 News: https://www.youtube.com/playlist?list=PLUgtVJuOxfqkmrF1fONNmi8nKI0Z-FPE-\nFOX 5 Atlanta I-Team: https://www.youtube.com/playlist?list=PLUgtVJuOxfqlb_I16wBwizoAoUsfKEeWB\nGood Day Atlanta: https://www.youtube.com/playlist?list=PLUgtVJuOxfqlKT5xsbsPFgr5EBzdsWTvG\nFOX 5 Extras: https://www.youtube.com/playlist?list=PLUgtVJuOxfqli-5MS_2X-i6bNGWvV0RYP\nYou Decide: https://www.youtube.com/playlist?list=PLUgtVJuOxfqnCKb7UkRde2NXuaoPEAXut\n\nDownload the FOX 5 Atlanta app: https://www.fox5atlanta.com/app\n\nDownload the FOX 5 Storm Team app: https://www.fox5atlanta.com/storm\n\nFollow FOX 5 Atlanta on Facebook: https://facebook.com/fox5atlanta\n\nFollow FOX 5 Atlanta on Twitter: https://twitter.com/FOX5Atlanta\n\nFollow FOX 5 Atlanta on Instagram: https://www.instagram.com/fox5atlanta/\n\nSubscribe to the Morning Brief and other newsletters from FOX 5 Atlanta: https://www.fox5atlanta.com/email"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "P0XbLgpRi4zoOhLZO6XAeRCjLNY",
+			"id": "bqjrPjuS9TE",
+			"snippet": {
+				"publishedAt": "2022-11-02T17:29:00Z",
+				"channelId": "UC-vaBe-YMpvcZL5rQ5OopZw",
+				"title": "An Emotional Week.. I never thought this would actually happen",
+				"description": "HAPPY WEDNESDAY!! Download the Flip app for FREE and get 30% off your first order with \"Morgan\": https://flip.shop/morgan\nThank you Flip for sponsoring this vlog!!\n\nMy account on flip is @ morganadams if you wanna follow me :,) \n\nFOLLOW ME ON INSTAGRAM:https://www.instagram.com/morganadams\n\nSUBSCRIBE TO RYLANDS VLOG CHANNEL!! https://www.youtube.com/channel/UCVe_...\n& HIS PODCAST!\nSHANE: https://www.youtube.com/user/shane\nFOLLOW STACEYS FOOD BLOG: https://staceylives.com\nhttps://www.youtube.com/channel/UCH2c...\nMOM:https://www.instagram.com/vickiadams2...\nDAD:https://www.instagram.com/bruceadams2...\nTRINITY: https://www.instagram.com/trinniee/?h...\n\nTimestamps\n0:00 - construction week 2\n4:07 - a quick break \n6:47 - our family halloween party\n15:18 - construction week 2.5\n22:58 - a tear of joy?\n\n\nALL OF MY PREVIOUS HOUSE VIDEOS are in a playlist here: https://youtube.com/playlist?list=PLy...\n\nIf you want to watch my entire bedroom renovation series I've made a playlist here:) https://youtube.com/playlist?list=PLy...\n\nSUBSCRIBE TO MY CHANNEL\nhttps://www.youtube.com/morganadams1​...\n\nIf you're reading this comment \" I wanna lick the bowl \"",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/bqjrPjuS9TE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/bqjrPjuS9TE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/bqjrPjuS9TE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/bqjrPjuS9TE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/bqjrPjuS9TE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "morgans vlogs",
+				"tags": [
+					"morgan",
+					"Morgans vlogs",
+					"Morgan adams",
+					"Ryland adams",
+					"Morgan Adams vlogs",
+					"MORGAN HOUSE RENO",
+					"house tour",
+					"house reno",
+					"house renovation",
+					"demo",
+					"demo my house",
+					"my house demo",
+					"my house tour",
+					"home decor",
+					"diy",
+					"vlogmas",
+					"vlogmas day",
+					"shane",
+					"colorado",
+					"christmas decor",
+					"house",
+					"home",
+					"reno",
+					"renovations",
+					"Morgan house renovations",
+					"barn reno",
+					"vlog",
+					"competition",
+					"family channel",
+					"family competition",
+					"Ryland Shane morgan",
+					"christmas",
+					"vlogger",
+					"Morgan and trinity"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "An Emotional Week.. I never thought this would actually happen",
+					"description": "HAPPY WEDNESDAY!! Download the Flip app for FREE and get 30% off your first order with \"Morgan\": https://flip.shop/morgan\nThank you Flip for sponsoring this vlog!!\n\nMy account on flip is @ morganadams if you wanna follow me :,) \n\nFOLLOW ME ON INSTAGRAM:https://www.instagram.com/morganadams\n\nSUBSCRIBE TO RYLANDS VLOG CHANNEL!! https://www.youtube.com/channel/UCVe_...\n& HIS PODCAST!\nSHANE: https://www.youtube.com/user/shane\nFOLLOW STACEYS FOOD BLOG: https://staceylives.com\nhttps://www.youtube.com/channel/UCH2c...\nMOM:https://www.instagram.com/vickiadams2...\nDAD:https://www.instagram.com/bruceadams2...\nTRINITY: https://www.instagram.com/trinniee/?h...\n\nTimestamps\n0:00 - construction week 2\n4:07 - a quick break \n6:47 - our family halloween party\n15:18 - construction week 2.5\n22:58 - a tear of joy?\n\n\nALL OF MY PREVIOUS HOUSE VIDEOS are in a playlist here: https://youtube.com/playlist?list=PLy...\n\nIf you want to watch my entire bedroom renovation series I've made a playlist here:) https://youtube.com/playlist?list=PLy...\n\nSUBSCRIBE TO MY CHANNEL\nhttps://www.youtube.com/morganadams1​...\n\nIf you're reading this comment \" I wanna lick the bowl \""
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "AgqqzkWGirC9BOFiTPk45I--0ko",
+			"id": "-MsNqd8yAN0",
+			"snippet": {
+				"publishedAt": "2022-11-01T19:12:26Z",
+				"channelId": "UCBgcPSn61UQ4l_-FvcEgLQA",
+				"title": "Parkland Victim's Father Max Schachter Gives Final Statement Before Shooter's Sentencing – Part 1",
+				"description": "Victims’ families get their final say in court prior to the sentencing of the Parkland school shooter. The statements follow a nearly three-month trial, after which a jury of seven men and five women could not unanimously agree on the death penalty for the convicted killer, resulting in a life sentence.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/-MsNqd8yAN0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/-MsNqd8yAN0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/-MsNqd8yAN0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/-MsNqd8yAN0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/-MsNqd8yAN0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "NBC 6 South Florida",
+				"categoryId": "25",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Parkland Victim's Father Max Schachter Gives Final Statement Before Shooter's Sentencing – Part 1",
+					"description": "Victims’ families get their final say in court prior to the sentencing of the Parkland school shooter. The statements follow a nearly three-month trial, after which a jury of seven men and five women could not unanimously agree on the death penalty for the convicted killer, resulting in a life sentence."
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "jVwadapKMVr2u_0z_S-XAlt3QE0",
+			"id": "EVXhYbnazKI",
+			"snippet": {
+				"publishedAt": "2022-11-01T13:45:03Z",
+				"channelId": "UCnlXUVuzrO_BllppmUCosig",
+				"title": "Minecraft NOOB vs PRO: SAFEST TINY HOUSE BUILD CHALLENGE",
+				"description": "Mongo and Wudo do a Tiny Security House Build Challenge! The Tiny houses include Traps, Parkour, and many other things for the other player to complete. Who makes the better security house? Does Mongo win? Does Wudo lose? Watch the video to find out!\n\n#Minecraft #Mongo #NoobVsPro",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/EVXhYbnazKI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/EVXhYbnazKI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/EVXhYbnazKI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/EVXhYbnazKI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/EVXhYbnazKI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "MongoTV",
+				"tags": [
+					"noob vs pro",
+					"maizen",
+					"minecraft",
+					"Mongo",
+					"Wudo",
+					"Build challenge",
+					"i cheated in a build challenge",
+					"Minecraft NOOB vs PRO: SAFEST SECURITY HOUSE BUILD CHALLENGE",
+					"giant maze build challenge",
+					"security tower build battle",
+					"secret bunker minecraft",
+					"prison break build challenge",
+					"longest staircase build challenge",
+					"Family House Build Challenge",
+					"noob vs pro vs hacker",
+					"minecraft noob vs pro",
+					"minecraft noob vs pro vs hacker",
+					"Minecraft NOOB vs PRO: SAFEST TUNNEL HOUSE BUILD CHALLENGE",
+					"safest build"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Minecraft NOOB vs PRO: SAFEST TINY HOUSE BUILD CHALLENGE",
+					"description": "Mongo and Wudo do a Tiny Security House Build Challenge! The Tiny houses include Traps, Parkour, and many other things for the other player to complete. Who makes the better security house? Does Mongo win? Does Wudo lose? Watch the video to find out!\n\n#Minecraft #Mongo #NoobVsPro"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "EIEDFnJ7HyNibkDe8R31C37QMzw",
+			"id": "Hmh6nGYKCEs",
+			"snippet": {
+				"publishedAt": "2022-11-02T12:43:21Z",
+				"channelId": "UCA3-nIYWu4PTWkb6NwhEpzg",
+				"title": "Official Spirited Trailer",
+				"description": "Amazing what a year's worth of tap dance classes can do. If only Will and I took them. \n\nWatch #Spirited in theaters November 11 and streaming on @Apple TV+ November 18.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Hmh6nGYKCEs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Hmh6nGYKCEs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Hmh6nGYKCEs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Hmh6nGYKCEs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Hmh6nGYKCEs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Ryan Reynolds",
+				"tags": [
+					"Ryan Reynolds",
+					"Will Ferrel",
+					"Spirited",
+					"Octavia Spencer",
+					"Apple TV plus",
+					"christmas carol"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Official Spirited Trailer",
+					"description": "Amazing what a year's worth of tap dance classes can do. If only Will and I took them. \n\nWatch #Spirited in theaters November 11 and streaming on @Apple TV+ November 18."
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "u8CiUpQmHoIfSzgnW7cM36l_CtE",
+			"id": "71SD6PI9ILs",
+			"snippet": {
+				"publishedAt": "2022-10-31T23:47:52Z",
+				"channelId": "UC4mLlRa_dezwvytudo9s1sw",
+				"title": "EVERYBODY PULLED UP IN COSTUMES! (HALLOWEEN 1ON1’s FOR $20,000)",
+				"description": "Thank you, Hulu, for sponsoring this video! For more action like this every week, sigh up for Hulu + Live TV here https://www.inflcr.co/SHFRc\n\n#HuluHasLiveSports #ad @Hulu\n\nWe popped out to Dallas for Halloween 1 on 1's! The competition was crazy and the costumes went dumb!\n\nGET YOUR ELEVEN GEAR HERE : https://theeleven.store\n\nFOLLOW COACH OTB- \nhttps://instagram.com/coachotb/\n\nSUBSCRIBE TO MY 2ND CHANNEL :\nhttps://www.youtube.com/channel/UCT_V...\n\nFOLLOW ME ON-\nTwitter : https://www.twitter.com/deestroying\nIG : https://www.instagram.com/deestroying",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/71SD6PI9ILs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/71SD6PI9ILs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/71SD6PI9ILs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/71SD6PI9ILs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/71SD6PI9ILs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Deestroying",
+				"tags": [
+					"db wr 1 on 1",
+					"deestroying",
+					"football",
+					"nfl",
+					"wide receiver",
+					"best catches",
+					"best football catches",
+					"destroying",
+					"highschool football",
+					"one handed catch",
+					"football highlights",
+					"highlight tape",
+					"donald de la haye",
+					"kicker",
+					"football TIK TOKS",
+					"trash talker",
+					"superbowl",
+					"afc",
+					"nfc",
+					"atlanta",
+					"highschool",
+					"high school",
+					"high school football",
+					"d1 recruit",
+					"d1",
+					"1 on 1's"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "EVERYBODY PULLED UP IN COSTUMES! (HALLOWEEN 1ON1’s FOR $20,000)",
+					"description": "Thank you, Hulu, for sponsoring this video! For more action like this every week, sigh up for Hulu + Live TV here https://www.inflcr.co/SHFRc\n\n#HuluHasLiveSports #ad @Hulu\n\nWe popped out to Dallas for Halloween 1 on 1's! The competition was crazy and the costumes went dumb!\n\nGET YOUR ELEVEN GEAR HERE : https://theeleven.store\n\nFOLLOW COACH OTB- \nhttps://instagram.com/coachotb/\n\nSUBSCRIBE TO MY 2ND CHANNEL :\nhttps://www.youtube.com/channel/UCT_V...\n\nFOLLOW ME ON-\nTwitter : https://www.twitter.com/deestroying\nIG : https://www.instagram.com/deestroying"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "OifU8TgR38B_2pU2ddDcC7CAerI",
+			"id": "902Zltouttc",
+			"snippet": {
+				"publishedAt": "2022-11-01T13:30:25Z",
+				"channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+				"title": "God of War Ragnarok - Official Trailer (Ben Stiller, LeBron James, John Travolta)",
+				"description": "Watch as Ben Stiller gives parenting advice to LeBron James, John Travolta and their children while channeling Kratos, and how they can all strive to be like Kratos and Atreus in their own parent and child relationships. \n\nGod of War Ragnarök launches on PlayStation 5 and PlayStation 4 on November 9, 2022.\n\n#IGN #Gaming #GodOfWar",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/902Zltouttc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/902Zltouttc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/902Zltouttc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/902Zltouttc/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/902Zltouttc/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "IGN",
+				"tags": [
+					"IGN",
+					"God of War Ragnarok",
+					"God of War",
+					"God of War Ragnarok Release Date",
+					"God of War: Ragnarok",
+					"PS5",
+					"god of war ragnarok trailer",
+					"god of war 2",
+					"god of war 2022",
+					"god of war ragnarok 2022",
+					"god of war ragnarok launch date",
+					"god of war ragnarok kratos",
+					"god of war ragnarok atreus",
+					"god of war ragnarok release",
+					"god of war ragnarok ps5",
+					"gow ragnarok",
+					"god of war ragnarok official trailer",
+					"gow ragnarok trailer",
+					"god of war ben stiller",
+					"ben stiller",
+					"lebron james",
+					"john travolta"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "God of War Ragnarok - Official Trailer (Ben Stiller, LeBron James, John Travolta)",
+					"description": "Watch as Ben Stiller gives parenting advice to LeBron James, John Travolta and their children while channeling Kratos, and how they can all strive to be like Kratos and Atreus in their own parent and child relationships. \n\nGod of War Ragnarök launches on PlayStation 5 and PlayStation 4 on November 9, 2022.\n\n#IGN #Gaming #GodOfWar"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "0hQtBZPlq6asQTaxprf2V_KvtHg",
+			"id": "xIWnudn3x9g",
+			"snippet": {
+				"publishedAt": "2022-11-02T03:42:23Z",
+				"channelId": "UCqFMzb-4AUf6WAIbl132QKA",
+				"title": "Bruins @ Penguins 11/1 | NHL Highlights 2022",
+				"description": "Extended highlights of the Boston Bruins at the Pittsburgh Penguins",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/xIWnudn3x9g/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/xIWnudn3x9g/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/xIWnudn3x9g/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/xIWnudn3x9g/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/xIWnudn3x9g/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "NHL",
+				"tags": [
+					"Boston Bruins",
+					"Hockey",
+					"Ice hockey highlights 2022",
+					"NHL",
+					"National Hockey League",
+					"Pittsburgh Penguins",
+					"Pittsburgh Penguins vs. Boston Bruins",
+					"hockey game",
+					"hockey games 2022",
+					"ice hockey",
+					"ice hockey highlights",
+					"nhl 21",
+					"nhl 22",
+					"nhl 22 be a pro",
+					"nhl 22 review",
+					"nhl big hits",
+					"nhl highlights",
+					"nhl highlights 2021",
+					"nhl highlights 2022",
+					"nhl hockey games 2022"
+				],
+				"categoryId": "17",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Bruins @ Penguins 11/1 | NHL Highlights 2022",
+					"description": "Extended highlights of the Boston Bruins at the Pittsburgh Penguins"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "ivsvX7ImsI8YQrr-jkUqv__COoU",
+			"id": "FJLT56w-x0g",
+			"snippet": {
+				"publishedAt": "2022-11-01T12:36:18Z",
+				"channelId": "UClMs26ViHFMy7MS897Alcxw",
+				"title": "Rapper Takeoff shot, killed in Houston, TMZ reports",
+				"description": "Rapper Takeoff was shot and killed, allegedly while playing dice in Houston, according to reports. He was 28.\n\nSt. Louis News: FOX 2 covers news, weather, and sports in Missouri and Illinois. Read more about this story or see the latest updates on our website https://FOX2Now.com\n\nFollow FOX 2 on social media:\n\nYouTube: https://www.youtube.com/FOX2Now\nFacebook: https://www.facebook.com/FOX2Now/\nTwitter: https://twitter.com/FOX2Now/\nInstagram: https://www.instagram.com/fox2now/\nTikTok: https://tiktok.com/@fox2now\nSnapChat: https://www.snapchat.com/add/fox2now",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/FJLT56w-x0g/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/FJLT56w-x0g/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/FJLT56w-x0g/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/FJLT56w-x0g/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/FJLT56w-x0g/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "FOX 2 St. Louis",
+				"tags": [
+					"stl",
+					"st. louis",
+					"news",
+					"local news",
+					"ktvi",
+					"kplr"
+				],
+				"categoryId": "25",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "Rapper Takeoff shot, killed in Houston, TMZ reports",
+					"description": "Rapper Takeoff was shot and killed, allegedly while playing dice in Houston, according to reports. He was 28.\n\nSt. Louis News: FOX 2 covers news, weather, and sports in Missouri and Illinois. Read more about this story or see the latest updates on our website https://FOX2Now.com\n\nFollow FOX 2 on social media:\n\nYouTube: https://www.youtube.com/FOX2Now\nFacebook: https://www.facebook.com/FOX2Now/\nTwitter: https://twitter.com/FOX2Now/\nInstagram: https://www.instagram.com/fox2now/\nTikTok: https://tiktok.com/@fox2now\nSnapChat: https://www.snapchat.com/add/fox2now"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "2OgHn3x8HhAYCqZplDnm3sSn5qI",
+			"id": "pY628jRd6gM",
+			"snippet": {
+				"publishedAt": "2022-11-01T13:54:07Z",
+				"channelId": "UCtI0Hodo5o5dUb67FeUjDeA",
+				"title": "USSF-44 Mission",
+				"description": "SpaceX is targeting Tuesday, November 1 at 9:41 a.m. ET (13:41 UTC) for Falcon Heavy’s launch of the USSF-44 mission to a geosynchronous Earth orbit from Launch Complex 39A (LC-39A) at Kennedy Space Center in Florida. A backup launch opportunity is available on Wednesday, November 2 at 9:37 a.m. ET (13:37 UTC).\n\nFollowing booster separation, Falcon Heavy’s two side boosters will land at SpaceX’s Landing Zones 1 and 2 (LZ-1 and LZ-2) at Cape Canaveral Air Force Station in Florida.\n\nA live webcast of this mission will begin about 15 minutes prior to liftoff.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/pY628jRd6gM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/pY628jRd6gM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/pY628jRd6gM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/pY628jRd6gM/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/pY628jRd6gM/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "SpaceX",
+				"tags": [
+					"SpaceX",
+					"Space",
+					"Satellite",
+					"Mission",
+					"Starlink",
+					"Falcon 9"
+				],
+				"categoryId": "28",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "USSF-44 Mission",
+					"description": "SpaceX is targeting Tuesday, November 1 at 9:41 a.m. ET (13:41 UTC) for Falcon Heavy’s launch of the USSF-44 mission to a geosynchronous Earth orbit from Launch Complex 39A (LC-39A) at Kennedy Space Center in Florida. A backup launch opportunity is available on Wednesday, November 2 at 9:37 a.m. ET (13:37 UTC).\n\nFollowing booster separation, Falcon Heavy’s two side boosters will land at SpaceX’s Landing Zones 1 and 2 (LZ-1 and LZ-2) at Cape Canaveral Air Force Station in Florida.\n\nA live webcast of this mission will begin about 15 minutes prior to liftoff."
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "yyXBVbDLRIoTMRwrgIn-U4qtB-M",
+			"id": "D7AzdoBj_rs",
+			"snippet": {
+				"publishedAt": "2022-11-01T02:50:30Z",
+				"channelId": "UChEYVadfkMCfrKUi6qr3I1Q",
+				"title": "Kodak Black - Better Run (Day Is Done)",
+				"description": "Kodak Black -  Better Run\n'Kutthroat Bill Vol. 1' OUT NOW! \nStream/Download: https://Kodak.lnk.to/KutthroatBillVol1\n \nSubscribe for more official content from Kodak Black:\nhttps://Atlantic.lnk.to/KBsubscribe\n\nFollow Kodak Black\nhttps://twitter.com/KodakBlack1k\nhttps://facebook.com/TheRealKodakBlack\nhttps://instagram.com/kodakblack\nhttps://soundcloud.com/kodak-black\nhttps://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7\n\nThe official YouTube channel of Atlantic Records artist Kodak Black. Subscribe for the latest music videos, performances, and more.\n\n#KodakBlack #KTB #KutthroatBillVol1 #BetterRun",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/D7AzdoBj_rs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/D7AzdoBj_rs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/D7AzdoBj_rs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/D7AzdoBj_rs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/D7AzdoBj_rs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Kodak Black",
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Kodak Black - Better Run (Day Is Done)",
+					"description": "Kodak Black -  Better Run\n'Kutthroat Bill Vol. 1' OUT NOW! \nStream/Download: https://Kodak.lnk.to/KutthroatBillVol1\n \nSubscribe for more official content from Kodak Black:\nhttps://Atlantic.lnk.to/KBsubscribe\n\nFollow Kodak Black\nhttps://twitter.com/KodakBlack1k\nhttps://facebook.com/TheRealKodakBlack\nhttps://instagram.com/kodakblack\nhttps://soundcloud.com/kodak-black\nhttps://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7\n\nThe official YouTube channel of Atlantic Records artist Kodak Black. Subscribe for the latest music videos, performances, and more.\n\n#KodakBlack #KTB #KutthroatBillVol1 #BetterRun"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "Ormx16wc01n3OY4PC3TwvA1x7D4",
+			"id": "c9r8JmjK22Y",
+			"snippet": {
+				"publishedAt": "2022-11-01T16:43:42Z",
+				"channelId": "UCA3-nIYWu4PTWkb6NwhEpzg",
+				"title": "Definitely Not Lip Syncing",
+				"description": "The rumors stop here. Will and I did NOT lip sync our dancing in Spirited. Tomorrow’s trailer will settle it.\n\nSpirited on Apple TV+",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/c9r8JmjK22Y/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/c9r8JmjK22Y/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/c9r8JmjK22Y/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/c9r8JmjK22Y/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/c9r8JmjK22Y/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Ryan Reynolds",
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Definitely Not Lip Syncing",
+					"description": "The rumors stop here. Will and I did NOT lip sync our dancing in Spirited. Tomorrow’s trailer will settle it.\n\nSpirited on Apple TV+"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "1_M8MQKAQXpaUdi3Jkadle-oHhU",
+			"id": "ZS4ZXBXhowY",
+			"snippet": {
+				"publishedAt": "2022-11-01T14:59:47Z",
+				"channelId": "UCv_ZsD6F_qLsN6wmPLm9rwg",
+				"title": "\"Bendy and the Dark Revival\" - Official Trailer",
+				"description": "darkrevival.com\n\n© 2017-2022 Joey Drew Studios Inc. \nBendy, Bendy and the Dark Revival, Bendy and the Ink Machine, The Bendy characters, images and logos are trademarks of Joey Drew Studios Inc. All Rights Reserved.images and logos are trademarks of Joey Drew Studios Inc. All Rights Reserved.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ZS4ZXBXhowY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ZS4ZXBXhowY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ZS4ZXBXhowY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/ZS4ZXBXhowY/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/ZS4ZXBXhowY/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Joey Drew Studios",
+				"tags": [
+					"bendy",
+					"batim",
+					"binr",
+					"joey drew",
+					"joey drew studios",
+					"jds",
+					"jds inc",
+					"joey drew studios inc",
+					"alice angel",
+					"alice",
+					"boris",
+					"boris the wolf",
+					"bendy and the ink machine",
+					"ink machine",
+					"bendy in nightmare run",
+					"nightmare run",
+					"bendy run"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "\"Bendy and the Dark Revival\" - Official Trailer",
+					"description": "darkrevival.com\n\n© 2017-2022 Joey Drew Studios Inc. \nBendy, Bendy and the Dark Revival, Bendy and the Ink Machine, The Bendy characters, images and logos are trademarks of Joey Drew Studios Inc. All Rights Reserved.images and logos are trademarks of Joey Drew Studios Inc. All Rights Reserved."
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "nS0pZvmnLxY9vShaUimjd88lWlg",
+			"id": "DY63dfyn7HQ",
+			"snippet": {
+				"publishedAt": "2022-11-01T15:00:14Z",
+				"channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+				"title": "Official Trailer | Disenchanted | Disney+",
+				"description": "Discover a fairy tale with a wicked twist. Disenchanted, an Original movie, starts streaming November 18 on Disney+. \n\nThe digital soundtrack from Walt Disney Records will be available on Nov. 18 and is available for Pre-Save/Pre-Add at https://presave.umusic.com/disenchanted-soundtrack.\n\nIt has been more than ten years since Giselle (Amy Adams) and Robert (Patrick Dempsey) wed, but Giselle has grown disillusioned with life in the city, so they move their growing family to the sleepy suburban community of Monroeville in search of a more fairy tale life. Unfortunately, it isn’t the quick fix she had hoped for. Suburbia has a whole new set of rules and a local queen bee, Malvina Monroe (Maya Rudolph), who makes Giselle feel more out of place than ever. Frustrated that her happily ever after hasn’t been so easy to find, she turns to the magic of Andalasia for help, accidentally transforming the entire town into a real-life fairy tale and placing her family’s future happiness in jeopardy. Now, Giselle is in a race against time to reverse the spell and determine what happily ever after truly means to her and her family.\n \n“Disenchanted” stars Amy Adams, Patrick Dempsey, Maya Rudolph, Yvette Nicole Brown, Jayma Mays, Gabriella Baldacchino, with Idina Menzel and James Marsden. Directed by Adam Shankman from a screenplay by Brigitte Hales and a story by J. David Stem & David N. Weiss, and Richard LaGravenese, “Disenchanted” is produced by Barry Josephson, Barry Sonnenfeld, and Amy Adams, with Jo Burn, Sunil Perkash, and Adam Shankman serving as executive producers. The movie features songs with music by 8-time Oscar®-winning composer Alan Menken and lyrics by three-time Oscar-winning lyricist Stephen Schwartz, whose work on “Enchanted” garnered three Academy Award® nominations and a score by Alan Menken.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/DY63dfyn7HQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/DY63dfyn7HQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/DY63dfyn7HQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/DY63dfyn7HQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/DY63dfyn7HQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Walt Disney Studios",
+				"tags": [
+					"Disenchanted",
+					"Movie",
+					"Movie Event",
+					"Enchanted",
+					"DisneyPlus",
+					"Disney Plus",
+					"New",
+					"Original",
+					"Trailer",
+					"Official Trailer",
+					"Amy Adams",
+					"Patrick Dempsey",
+					"Maya Rudolph",
+					"Yvettte Nicole Brown",
+					"Jayma Mays",
+					"Gabriella Baldacchino",
+					"Idina Menzel",
+					"James Marsden",
+					"Adam Shankman",
+					"Brigitte Hales",
+					"J David Stern",
+					"David N Weiss",
+					"Richard LaGravenese",
+					"Barry Josephson",
+					"Barry Sonnenfield",
+					"Jo Burn",
+					"Sunil Perkash",
+					"Alan Menken",
+					"Stephen Schwartz",
+					"Family",
+					"Live Action",
+					"Animation",
+					"Fantasy",
+					"Fairytale",
+					"Princess",
+					"Storybook"
+				],
+				"categoryId": "1",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Official Trailer | Disenchanted | Disney+",
+					"description": "Discover a fairy tale with a wicked twist. Disenchanted, an Original movie, starts streaming November 18 on Disney+. \n\nThe digital soundtrack from Walt Disney Records will be available on Nov. 18 and is available for Pre-Save/Pre-Add at https://presave.umusic.com/disenchanted-soundtrack.\n\nIt has been more than ten years since Giselle (Amy Adams) and Robert (Patrick Dempsey) wed, but Giselle has grown disillusioned with life in the city, so they move their growing family to the sleepy suburban community of Monroeville in search of a more fairy tale life. Unfortunately, it isn’t the quick fix she had hoped for. Suburbia has a whole new set of rules and a local queen bee, Malvina Monroe (Maya Rudolph), who makes Giselle feel more out of place than ever. Frustrated that her happily ever after hasn’t been so easy to find, she turns to the magic of Andalasia for help, accidentally transforming the entire town into a real-life fairy tale and placing her family’s future happiness in jeopardy. Now, Giselle is in a race against time to reverse the spell and determine what happily ever after truly means to her and her family.\n \n“Disenchanted” stars Amy Adams, Patrick Dempsey, Maya Rudolph, Yvette Nicole Brown, Jayma Mays, Gabriella Baldacchino, with Idina Menzel and James Marsden. Directed by Adam Shankman from a screenplay by Brigitte Hales and a story by J. David Stem & David N. Weiss, and Richard LaGravenese, “Disenchanted” is produced by Barry Josephson, Barry Sonnenfeld, and Amy Adams, with Jo Burn, Sunil Perkash, and Adam Shankman serving as executive producers. The movie features songs with music by 8-time Oscar®-winning composer Alan Menken and lyrics by three-time Oscar-winning lyricist Stephen Schwartz, whose work on “Enchanted” garnered three Academy Award® nominations and a score by Alan Menken."
+				},
+				"defaultAudioLanguage": "en-US"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "vlINFBaFU9xEFJfxV6-eWWXu7iI",
+			"id": "ThdbN2xgv8E",
+			"snippet": {
+				"publishedAt": "2022-11-02T00:25:00Z",
+				"channelId": "UCyGhGrs-1hA22jX6X850VEQ",
+				"title": "Venture X Card - Multiple Taylors :30 | Capital One",
+				"description": "The Venture X card from Capital One gives you premium travel benefits, like 2X miles on every purchase, 5X miles on flights and 10X miles on hotels through Capital One Travel. Plus get access to over 1,300 airport lounges, and maybe, see the one-and-only @Taylor Swift  #TSxCapitalOne\n\nABOUT US \nCapital One provides a broad range of financial products and services from personal credit cards or business credit cards, savings accounts, to auto loans. See how Capital One can help you with your banking and financial needs: https://capital.one/3ftSP3N\n\nCONNECT WITH US!\nFacebook: https://capital.one/3h2usKW\nTwitter: https://capital.one/3DqhlLq\nInstagram: https://capital.one/3fr1eVG\nLinkedIn: https://capital.one/3DtP7zm\nYouTube: https://capital.one/3Wp95ni\n\nDOWNLOAD MOBILE APPS\nGoogle Play: Capital One - https://capital.one/3h3lVrl\nApple App Store: Capital One - https://capital.one/3TWUez2\n\nSUBSCRIBE to the Capital One channel to get all the latest videos automatically! https://capital.one/3WkdKqF",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ThdbN2xgv8E/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ThdbN2xgv8E/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ThdbN2xgv8E/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/ThdbN2xgv8E/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/ThdbN2xgv8E/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Capital One",
+				"tags": [
+					"Cap 1",
+					"Cap One",
+					"Capital 1",
+					"Capitol 1",
+					"Capitol One",
+					"TSXCapitalOne",
+					"Taylor Swift",
+					"Venture X",
+					"Venture X capital one",
+					"airline credit card",
+					"airline credit cards",
+					"best travel credit card",
+					"capital one",
+					"capital one venture",
+					"capital one venture card",
+					"capital one venture x",
+					"credit card",
+					"double miles",
+					"earn double miles",
+					"rewards card",
+					"rewards credit card",
+					"travel credit card",
+					"travel rewards card",
+					"venture capital",
+					"venture card",
+					"venture rewards"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Venture X Card - Multiple Taylors :30 | Capital One",
+					"description": "The Venture X card from Capital One gives you premium travel benefits, like 2X miles on every purchase, 5X miles on flights and 10X miles on hotels through Capital One Travel. Plus get access to over 1,300 airport lounges, and maybe, see the one-and-only @Taylor Swift  #TSxCapitalOne\n\nABOUT US \nCapital One provides a broad range of financial products and services from personal credit cards or business credit cards, savings accounts, to auto loans. See how Capital One can help you with your banking and financial needs: https://capital.one/3ftSP3N\n\nCONNECT WITH US!\nFacebook: https://capital.one/3h2usKW\nTwitter: https://capital.one/3DqhlLq\nInstagram: https://capital.one/3fr1eVG\nLinkedIn: https://capital.one/3DtP7zm\nYouTube: https://capital.one/3Wp95ni\n\nDOWNLOAD MOBILE APPS\nGoogle Play: Capital One - https://capital.one/3h3lVrl\nApple App Store: Capital One - https://capital.one/3TWUez2\n\nSUBSCRIBE to the Capital One channel to get all the latest videos automatically! https://capital.one/3WkdKqF"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "SrnbGIRt1MKbdQZs0ZOtDcTtUjg",
+			"id": "mZILRPjsaew",
+			"snippet": {
+				"publishedAt": "2022-11-01T16:00:25Z",
+				"channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+				"title": "A Christmas Story Christmas – Official Trailer",
+				"description": "We triple dog dare you to join in on the fun. Ralphie returns in the trailer for #AChristmasStoryChristmas – streaming on HBO Max November 17.\n\nFrom Warner Bros. Pictures and HBO Max comes the family comedy “A Christmas Story Christmas,” the long-awaited follow-up to annual holiday favorite, “A Christmas Story.” This time, Ralphie is all grown up and must deal with Christmas and all that comes with it…as a dad. Peter Billingsley returns to the role that has made kids of all ages anticipate Christmas morning like no other.\n\nStarring alongside Billingsley as Ralphie Parker are Erinn Hayes (“Bill & Ted Face the Music”) as Ralphie’s wife, Sandy; Julianna Layne (“Prodigal Son”) as their daughter, Julie; River Drosche (“Miracle Workers”) as son Mark; Scott Schwartz returning as Flick; RD Robb returning as Schwartz; Ian Petrella reprising his role as Ralphie’s brother, Randy; Davis Murphy (“Looking for Dr. Love”) as Delbert Bumpus; with Zack Ward returning as Scut Farkus; and Julie Hagerty (“Instant Family”) as Ralphie’s mom, Mrs. Parker.\n\nClay Kaytis (“The Christmas Chronicles”) directed from a screenplay by Nick Schenk (“Cry Macho”) and Kaytis, screen story by Schenk and Billingsley, based upon the book In God We Trust, All Others Pay Cash by Jean Shepherd. The film’s producers are Irwin Zwilling, Marc Toberoff, Cale Boyter, Jay Ashenfelter, Billingsley and Vince Vaughn, with Mike Drake, Schenk and Peter Dodd serving as executive producers.\n\nKaytis’s team behind the camera includes director of photography Matthew Clark (“Pitch Perfect 3,” “Mixtape”), production designer Rusty Smith (“Get Out,” “Life of the Party”), editor  David Walsh Heinz (“The Call of the Wild”) and costume designer Shay Cunliffe (“Book Club,” “A  Dog’s Purpose”). The music is by composer Jeff Morrow.\n\nWarner Bros. Pictures and HBO MAX Present A Legendary Pictures / Wild West Picture  Show / Toberoff Production, A Clay Kaytis Film, “A Christmas Story Christmas.” The film will debut on HBO Max on November 17, 2022.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/mZILRPjsaew/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/mZILRPjsaew/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/mZILRPjsaew/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/mZILRPjsaew/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/mZILRPjsaew/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Warner Bros. Pictures",
+				"tags": [
+					"2022",
+					"A Christmas Story",
+					"Cale Boyter",
+					"Christmas Movie",
+					"Christmas films",
+					"Clay Kaytis",
+					"Comedy",
+					"Erinn Hayes",
+					"Family",
+					"Film Trailer",
+					"Film Warner",
+					"HBO",
+					"HBO MAX",
+					"HBO Max Trailer",
+					"HBO Movie",
+					"HBO trailer",
+					"HD Trailer",
+					"Holiday Movie",
+					"Irwin Zwilling",
+					"Jay Ashenfelter",
+					"MAX",
+					"Marc Toberoff",
+					"Nick Schenk",
+					"November",
+					"Official Trailer",
+					"Peter Billingsley",
+					"Ralphie",
+					"Trailer",
+					"WB",
+					"Warner",
+					"Warner Bros",
+					"Warner Brothers",
+					"Zack Ward",
+					"festive films",
+					"festive movies",
+					"film",
+					"film 2022"
+				],
+				"categoryId": "1",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "A Christmas Story Christmas – Official Trailer",
+					"description": "We triple dog dare you to join in on the fun. Ralphie returns in the trailer for #AChristmasStoryChristmas – streaming on HBO Max November 17.\n\nFrom Warner Bros. Pictures and HBO Max comes the family comedy “A Christmas Story Christmas,” the long-awaited follow-up to annual holiday favorite, “A Christmas Story.” This time, Ralphie is all grown up and must deal with Christmas and all that comes with it…as a dad. Peter Billingsley returns to the role that has made kids of all ages anticipate Christmas morning like no other.\n\nStarring alongside Billingsley as Ralphie Parker are Erinn Hayes (“Bill & Ted Face the Music”) as Ralphie’s wife, Sandy; Julianna Layne (“Prodigal Son”) as their daughter, Julie; River Drosche (“Miracle Workers”) as son Mark; Scott Schwartz returning as Flick; RD Robb returning as Schwartz; Ian Petrella reprising his role as Ralphie’s brother, Randy; Davis Murphy (“Looking for Dr. Love”) as Delbert Bumpus; with Zack Ward returning as Scut Farkus; and Julie Hagerty (“Instant Family”) as Ralphie’s mom, Mrs. Parker.\n\nClay Kaytis (“The Christmas Chronicles”) directed from a screenplay by Nick Schenk (“Cry Macho”) and Kaytis, screen story by Schenk and Billingsley, based upon the book In God We Trust, All Others Pay Cash by Jean Shepherd. The film’s producers are Irwin Zwilling, Marc Toberoff, Cale Boyter, Jay Ashenfelter, Billingsley and Vince Vaughn, with Mike Drake, Schenk and Peter Dodd serving as executive producers.\n\nKaytis’s team behind the camera includes director of photography Matthew Clark (“Pitch Perfect 3,” “Mixtape”), production designer Rusty Smith (“Get Out,” “Life of the Party”), editor  David Walsh Heinz (“The Call of the Wild”) and costume designer Shay Cunliffe (“Book Club,” “A  Dog’s Purpose”). The music is by composer Jeff Morrow.\n\nWarner Bros. Pictures and HBO MAX Present A Legendary Pictures / Wild West Picture  Show / Toberoff Production, A Clay Kaytis Film, “A Christmas Story Christmas.” The film will debut on HBO Max on November 17, 2022."
+				},
+				"defaultAudioLanguage": "en-US"
+			}
+		}
+	],
+	"nextPageToken": "CBkQAA",
+	"pageInfo": {
+		"totalResults": 200,
+		"resultsPerPage": 25
+	}
+}
