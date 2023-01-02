@@ -1,3 +1,4 @@
+* Site : https://magnificent-queijadas-85a83d.netlify.app/
 ![youtube](https://user-images.githubusercontent.com/88068412/210200880-8203b7be-2a69-40a0-bf26-6c1bc843e97e.png)
 
 1. Youtube APIs 사용.
@@ -19,4 +20,4 @@
   https://youtube.googleapis.com/youtube/v3/channels?part=snippet&id=UC_x5XG1OV2P6uZZ5FSM9Ttw&key=[YOUR_API_KEY]
   
 7. TailWindCss 을 활용해서 반응형까지 작업 완료.
-8. netlify를 사용하여 배포.
+8. Netlify를 사용하여 배포.
