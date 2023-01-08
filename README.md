@@ -37,4 +37,4 @@
   https://youtube.googleapis.com/youtube/v3/channels?part=snippet&id=UC_x5XG1OV2P6uZZ5FSM9Ttw&key=[YOUR_API_KEY]
   
 22. TailWindCss 을 활용해서 반응형까지 작업.
-23. Netlify를 사용하여 배포.
+23. Netlify를 통하여 배포. (.env를 사용했기 때문에 환경변수에 key와 value를 넣어줌.)
