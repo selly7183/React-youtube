@@ -22,7 +22,8 @@
 18. VideoDetail에서 useLocation을 사용해서 상태를 받아오고 iFrame을 사용해서 비디오를 가지고옴.
 19. snippet안에서 title, channelId, thumbnail, description 받아옴.
 20. 오른쪽에는 video.id와 연관된 비디오들이 나올 수 있게 RelatedVideos를 만들어줌.
-21. 사용된 API
+21. useQuery의 stale time을 조절해줌.
+22. 사용된 API
   1) 키워드 검색
   https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=surfing&key=[YOUR_API_KEY]
 
