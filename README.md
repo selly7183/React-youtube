@@ -15,8 +15,14 @@
 11. MOCK data와 실제 API를 swiching하기 위해 useQuery안에 네트워크 관련된 로직을 youtube.js, fakeYoutube.js 로 나눠서 빼줌.
 12. FakeYoutube는 class를 사용해서 keyword가 있으면 #searchByKeyword, 아니면 #mostPopular가 나오게 만들어서 id가 동일하게 문자로 나오게 만들어서 Videos의 인스턴스로 전달.
 13. 실제 Youtube도 class를 사용해서 axios로 만들어줌. key는 .env파일에 REACT_APP_YOUTUBE_kEY로 환경변수로 저장해줌.
-14. 개발이 마무리 되어 갈때에는 Youtube APIs를 사용.
-15. 사용된 API
+14. 개발이 마무리 되어 갈때에는 실제 Youtube APIs를 사용.
+15. VideoCard안에 snippet안에 있는 title, thumbnail, description, channelTitle, publishedAt을 가져옴.
+16. 날짜는 timeAgo 라이브러리를 사용해서 format(publishedAt)으로 키를 지정해줌. => 1 month ago 이렇게 나옴. 재사용을 위해 date.js에 따로 만들어줌.
+17. 비디오를 누르면 해당 비디오 watch로 이동이 되도록 useNavigate를 사용해서 만들어줌.
+18. VideoDetail에서 useLocation을 사용해서 상태를 받아오고 iFrame을 사용해서 비디오를 가지고옴.
+19. snippet안에서 title, channelId, thumbnail, description 받아옴.
+20. 오른쪽에는 video.id와 연관된 비디오들이 나올 수 있게 RelatedVideos를 만들어줌.
+21. 사용된 API
   1) 키워드 검색
   https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=surfing&key=[YOUR_API_KEY]
 
@@ -29,5 +35,5 @@
   4) 채널 상세내용
   https://youtube.googleapis.com/youtube/v3/channels?part=snippet&id=UC_x5XG1OV2P6uZZ5FSM9Ttw&key=[YOUR_API_KEY]
   
-6. TailWindCss 을 활용해서 반응형까지 작업 완료.
-7. Netlify를 사용하여 배포.
+22. TailWindCss 을 활용해서 반응형까지 작업.
+23. Netlify를 사용하여 배포.
